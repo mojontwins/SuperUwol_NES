@@ -1,0 +1,716 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"SPR",
+				"SPRITE_ADJUST_PAL"
+			],
+			[
+				"plife",
+				"plife_meemaid"
+			],
+			[
+				"TI_B",
+				"TI_BACKGROUNDS"
+			],
+			[
+				"update",
+				"update_list_index"
+			],
+			[
+				"SMS_setTile",
+				"SMS_setTileatXY"
+			],
+			[
+				"VDPS",
+				"VDPStatusPort"
+			],
+			[
+				"overfl",
+				"VDPSpriteOverflow"
+			],
+			[
+				"fra",
+				"frame_counter"
+			],
+			[
+				"PLAYER_",
+				"PLAYER_GENITAL"
+			],
+			[
+				"PLAYER_HA",
+				"PLAYER_HAS_JUMP"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dev/uwol.c",
+			"settings":
+			{
+				"buffer_size": 2863,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dev/globals_zp.h",
+			"settings":
+			{
+				"buffer_size": 1779,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dev/engine/player.h",
+			"settings":
+			{
+				"buffer_size": 11472,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dev/nes.cfg",
+			"settings":
+			{
+				"buffer_size": 2472,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dev/crt0.s",
+			"settings":
+			{
+				"buffer_size": 4213,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dev/engine/game_loop.h",
+			"settings":
+			{
+				"buffer_size": 6939,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/game_loop.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/exits.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/enemmods/enem_linear.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/enemmods/enem_fanty.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/coins.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/clothes.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/globals_zp.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/hud.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/uwol.c",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/compile.bat",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/assets/uwolmap.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/printer.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/neslib.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/assets/palette_arrays.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/assets/metaspriteset.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev-demo/compile.bat",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/general.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev-demo/uwol.c",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/player.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev-demo/engine/printer.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev-demo/engine/game_loop.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/enengine.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/crt0.s",
+		"/C/Users/NaThan/Google Drive/Maritrini/dev/NES/SuperUwol/dev/definitions.h",
+		"/D/Google Drive/Maritrini/dev/NES/SuperUwol/dev/config.h",
+		"/C/Users/ASUStado/Google Drive/Maritrini/dev/NES/SuperUwol/dev/nes.cfg",
+		"/C/Users/ASUStado/Google Drive/Maritrini/dev/NES/SuperUwol/dev/sounds.s",
+		"/C/Users/ASUStado/Google Drive/Maritrini/dev/NES/SuperUwol/dev/famitone2.s",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/game_loop.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev--20151213a/dev/uwol.c",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/neslib.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/uwol.c",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/diario.txt",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/globals_bss.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/player.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/printer.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/assets/precalcs.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/config.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/definitions.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev--20151213a/dev/engine/spr_mixer.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/compile.bat",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/assets/palettes.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/assets/titleset.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/globals_zp.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/SMS/moggy_sms/printer.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/exits.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/enemmods/enem_linear.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/enemmods/enem_fanty.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/tests/test1.c",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/map/uwolmap.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/engine/general.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/assets/palette_arrays.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/bootee/dev/engine/printer.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/environment/chase-for-modern-cc65/readme.txt",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/environment/chase-for-modern-cc65/src/game.c",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/tests/neslib.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/dev/assets/metatileset.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/goddess/dev/assets/pal_arrays.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/tests/crt0.s",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/tests/build.bat",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/utils/examples/chase/src/compile.bat",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/environment/chase-for-modern-cc65/src/compile.bat",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/environment/chase-for-modern-cc65/src/makefile",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM0/dev/game.c",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/SuperUwol/SuperUwol.sublime-project",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/sg-1000/SGlib/examples/first.c",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/sg-1000/SGlib/examples/second.c",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/sg-1000/SGlib/SGlib/readme.txt",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/sg-1000/test/lib/SMSlib.c",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/sg-1000/SGlib/SGlib.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/sg-1000/SGlib/SGlib.c",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/sg-1000/test/first.c",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/sg-1000/test/second.c",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM2/dev/compile.bat",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM2/dev/engine/enengine.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM2/dev/engine/printer.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM2/dev/engine/shines.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/sg-1000/test/makelib.bat",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM2/dev/config.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM2/dev/engine/propellers.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM2/dev/game.c",
+		"/C/sdcc-sg1000/setenv.bat",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM2/dev/assets/mapa0.h",
+		"/C/Users/Pc City/AppData/Local/Temp/Rar$DI00.387/printer.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/goddess/dev/config.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/goddess/dev/engine/printer.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM2/dev/assets/enems0.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM2/dev/assets/mapa1.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/goddess/dev/compile.bat",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/compile.bat",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/config.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/assets/metasprites.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/engine/enengine.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/engine/printer.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/mainloop/hotspots.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/game.c",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/engine/enemmods/enem_pursuers.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/engine/enemmods/enem_linear.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM1/dev/engine/enemmods/enem_linear.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM1/dev/engine/printer.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/goddess/dev/assets/metasprites.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/goddess/dev/assets/spr_hs.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/goddess/dev/assets/mapa1.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM1/dev/assets/mapa0.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM1/dev/assets/mapa1.h",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM1/dev/game.c",
+		"/C/Users/Pc City/Google Drive/Maritrini/dev/NES/CherilsR/ROM1/dev/config.h",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/engine/printer.h",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/ROM2/dev/assets/mapa0.h",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/goddess/dev/game.c",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/goddess/dev/engine/printer.h",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/ROM1/dev/compile.bat",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/ROM1/dev/game.c",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/diario.txt",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/compile.bat",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/assets/cuts1.h",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/assets/cuts_texts.h",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/engine/pres.h",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/game.c",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/ROM1/map/out1.h",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/ROM1/dev/assets/mapa0.h",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/ROM1/map/out0.h",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/cosas.txt",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/ROM0/dev/engine/pres.h",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/ROM0/dev/assets/cuts_texts.h",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/ROM0/dev/game.c",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/engine/player.h",
+		"/D/Google Drive/Maritrini/dev/NES/CherilsR/d'veel'ng/dev/config.h"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ntsc",
+			"SPRITE_ADJUST",
+			", 0x01, ",
+			", 0x00, ",
+			"enter_scre",
+			"2015",
+			"dev",
+			"sound",
+			"enter_screen",
+			"START",
+			"fanty",
+			"39",
+			"...!\");\n",
+			"//music_",
+			"(//music",
+			"//music",
+			"music_",
+			"128",
+			"rdb",
+			"pal_col (2, 0x20 | rdb); rdb ++; if (rdb == 0xd) rdb = 1;",
+			"nplayers",
+			"rdc",
+			"vram_write (",
+			"vram_write ",
+			"vram_write (attr",
+			"i",
+			"in=",
+			"music",
+			"music_music_data",
+			"LSB",
+			"MSB",
+			"update_list",
+			"LSB",
+			"MSB",
+			"update_list",
+			"updateListData",
+			"title_screen",
+			"main",
+			"poll",
+			",",
+			"SMS_",
+			"pauserequested",
+			"SG_dis",
+			"SMS_",
+			"SATAddress",
+			"PNTAddress",
+			"turnon",
+			"SMS",
+			"32",
+			"ISR",
+			"vblank",
+			"SAT",
+			"copySpritesToSaT",
+			"control",
+			"vdpspriteoverflow",
+			"32",
+			"flipflop",
+			"Wait",
+			"flipflop",
+			"OVERFL",
+			"VDPStatus",
+			"[0]",
+			"[1]",
+			"#ifdef AUTODETECT_SPRITE_OVERFLOW",
+			"vblank",
+			"ISR",
+			"isr",
+			"ISR",
+			"VDPSpriteOverflow",
+			"VDPStatusPort",
+			"propeller",
+			"prp_idx",
+			"alt",
+			"decos",
+			"ptx",
+			"en_fr",
+			"en_s",
+			"light",
+			"_a",
+			",",
+			"**",
+			"c_decos",
+			"CUTSCENE",
+			"frc",
+			"ENEMIES_LIFE_GAUGE",
+			"kill_player",
+			"EST_NORMAL",
+			"FLICKERS",
+			"flickers",
+			"no_on",
+			"attr_table",
+			"pfixct",
+			"fire_bullet",
+			"en_to",
+			"en_touched",
+			"half_",
+			"while (1",
+			"player_fra",
+			"oam_",
+			"player_frames",
+			"persistent",
+			"oam_",
+			"rdc",
+			"ep_alive\n",
+			"ep_",
+			"p_t",
+			"move_propellers",
+			"player",
+			"0x01",
+			"0x02",
+			"level",
+			"okilled",
+			"0x01",
+			"0x02",
+			"update",
+			"persistent_enems_",
+			"PALUPDATE",
+			"palupdate",
+			"fade",
+			"pal_bright",
+			"fade",
+			"oam_clear",
+			"pkilled",
+			"baddies_count",
+			"script_result",
+			"PLAYER",
+			"en_status",
+			"fader"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sprite_adjust",
+			", ntsc + 1, ",
+			", ntsc, ",
+			"2016",
+			"dev-demo",
+			"0",
+			"music_",
+			"(MUSIC",
+			"MUSIC",
+			"music",
+			"136",
+			"gen_result",
+			"game_mode",
+			"pals=",
+			"_LSB",
+			"_MSB",
+			", ",
+			"SG_",
+			"SATADDRESS",
+			"PNTADDRESS",
+			"SG",
+			"MAX_SPRITES",
+			"[gpit]",
+			"[0]",
+			"_b",
+			"_a,",
+			"0x03",
+			"_pl_",
+			"\\n",
+			"\\u",
+			"\\o",
+			"\\i",
+			"\\e",
+			"\\a",
+			"\\n",
+			"\\u",
+			"\\o",
+			"\\i",
+			"\\e",
+			"\\a",
+			"T.A.R.D.I.S.",
+			"8<",
+			"EXTERN_E",
+			"k2t_code",
+			"k2t_i",
+			"k2t_y",
+			"k2t_x",
+			"k2t_i",
+			"000",
+			"6",
+			"5",
+			"55556666O",
+			"TOCINO MARÍN ALBERTITO",
+			"last",
+			"k2t_length",
+			"k2t_last_key",
+			"k2t_selected",
+			"k2t_color",
+			"..\\..\\",
+			"/",
+			"myFileLen",
+			"RXVAL",
+			"AXVAL",
+			"RXVAL",
+			"pixels",
+			"pixel",
+			"defined (",
+			"/",
+			"\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dev/uwol.c",
+					"settings":
+					{
+						"buffer_size": 2863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1685,
+								1698
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dev/globals_zp.h",
+					"settings":
+					{
+						"buffer_size": 1779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1779,
+								1779
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 65.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dev/engine/player.h",
+					"settings":
+					{
+						"buffer_size": 11472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dev/nes.cfg",
+					"settings":
+					{
+						"buffer_size": 2472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1705,
+								1705
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "dev/crt0.s",
+					"settings":
+					{
+						"buffer_size": 4213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4171,
+								4171
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/R/R.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3082.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "dev/engine/game_loop.h",
+					"settings":
+					{
+						"buffer_size": 6939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Google Drive/Maritrini/dev/NES/Lala/lala.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true
+}
